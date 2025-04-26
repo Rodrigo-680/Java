@@ -106,7 +106,8 @@ public class TelaLogin extends javax.swing.JFrame {
             tela.setVisible(true);
         }else{
             JOptionPane.showMessageDialog(null, "Senha ou usuário inválido!!");
-        }
+             
+       }
     }//GEN-LAST:event_jButton1ActionPerformed
 
     /**
